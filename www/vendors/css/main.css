@@ -1,0 +1,70 @@
+.animate-hidden  { opacity: 0; }
+.animate-visible { opacity: 1; }
+::selection      { background : #fff5a5; }
+::-moz-selection { background : #fff5a5; }
+.no-padding      { padding: 0px; }
+body {
+	background : #f3f3f3;
+}
+
+* {
+	font-family : "Helvetica-Neue", Helvetica, Arial;
+}
+
+div.x {
+	border : 1px solid red;
+}
+
+h1 {
+	text-transform: uppercase;
+	font-weight : 100;
+	font-size : 70px;
+}
+
+h2 {
+	font-weight : 100;
+	font-size : 30px;
+}
+
+h3 {
+	color : #000;
+	font-size : 14px;
+	font-weight : 300;
+}
+
+h4 {
+	color : #666;
+	font-size : 12px;
+	font-weight : 100;
+	text-align:left;
+}
+
+p {
+	font-size : 13px;
+	font-weight : 100;
+	text-align : justify;
+}
+
+.main {
+	margin : 60px auto 60px auto;
+}
+
+.picture {
+	text-align : center;
+}
+
+.picture img {
+	max-width : 100%;
+}
+
+.intro p {
+	font-size : 16px;
+}
+
+.rating .star {
+	text-align : center;
+}
+
+.skills .line {
+	padding : 5px 0px !important;
+}
