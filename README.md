@@ -1,1 +1,1 @@
-# https://www.vanessavandy.com
+# www.vanessavandy.com
